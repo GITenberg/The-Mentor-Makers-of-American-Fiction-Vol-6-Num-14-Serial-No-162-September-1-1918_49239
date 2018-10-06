@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Makers of American Fiction, Vol. 6, Num. 14, Serial No. 162, September
   1, 1918'
 url: http://www.gutenberg.org/ebooks/49239
